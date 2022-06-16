@@ -42,11 +42,9 @@
 <br/>  
 
 
-## Connect with me  
+## Contact 
 <div align="center">
-<a href="https://instagram.com/pachara1337" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+Discord : pachara#1898
 </div>  
   
 

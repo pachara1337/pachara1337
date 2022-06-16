@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **private software** that related to game  
   
 
-- 💻 if you want to buy private software then contact me anytime  
+- 💻 if you want to buy **private software** then contact me anytime  
 
   
 

@@ -5,11 +5,12 @@
 
 ### <div align="center">Hi I'm Pachara currently I'm a student from Thailand</div>  
   
-
+<br/> 
 - 🔭 I’m currently working on **private software** that related to game  
   
 
 - 💻 if you want to buy private software then contact me anytime  
+<br/> 
   
 
 <br/>  

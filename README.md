@@ -10,7 +10,7 @@
 
 
 
--💻 I’m currently working on **private software** that related to game
+-💻 I’m currently working on **private software** 
   
   
 

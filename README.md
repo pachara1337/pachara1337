@@ -41,7 +41,7 @@
 
 ## Contact 
 <div align="center">
-Discord : pachara#1898
+Discord : pachara#1337
 </div>  
   
 

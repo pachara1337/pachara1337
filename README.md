@@ -41,7 +41,8 @@
 
 ## Contact 
 <div align="center">
-Discord : pachara#1337
+pachara1337@protonmail.com
+pachara#1337
 </div>  
   
 

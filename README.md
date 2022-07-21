@@ -6,7 +6,7 @@
 <h3>About Me</h3>
 👋Hello, my name is Pachara I am currently a student I usually use Github for fun in my free time and I enjoy it.
 
-</p>
+
 
 <h3>Skills</h3>
 
@@ -16,11 +16,11 @@
   ![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</p>
 
 
 
-</p>
+
+
 
   <h2></h2>
   <br/>
@@ -31,7 +31,7 @@
 </div>  
 
 
-</p>
+
 
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=eccentricPACHARA&bg_color=0D1117&color=00ffe5&line=f200ff&point=FFFFFF&hide_border=true" />

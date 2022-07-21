@@ -18,7 +18,7 @@
 
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=eccentricPACHARA&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=eccentricPACHARA&bg_color=0D1117&color=f200ff&line=f200ff&point=FFFFFF&hide_border=true" />
 
  
 

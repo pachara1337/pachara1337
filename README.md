@@ -11,9 +11,12 @@
   
 
 <div align="center">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=eccentricPACHARA&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=eccentricPACHARA&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccentricPACHARA&theme=dracula&layout=compact" />
 
- 
+</div>  
+
+
 </p>
 
  

@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=eccentricPACHARA&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=eccentricPACHARA&&style=flat-square" align="center" /> <img src="https://img.shields.io/badge/skills-c%20c%23%20c%2B%2B%20arduino%20ahk%20js-brightgreen" />
 
  
 

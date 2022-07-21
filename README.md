@@ -32,6 +32,7 @@
 
 </p>
 
+<div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=eccentricPACHARA&bg_color=0D1117&color=00ffe5&line=f200ff&point=FFFFFF&hide_border=true" />
 
  

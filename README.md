@@ -4,7 +4,7 @@
 
 
 <h3>About Me</h3>
-👋Hello, I am currently a student this Github is what I usually do for fun on free time.
+👋Hello, I am currently a student this Github is what I usually do for fun in my free time.
 
 </p>
 

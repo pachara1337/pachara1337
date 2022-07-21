@@ -40,7 +40,6 @@
 <br/>
 
 <div align="center">
-Contact
  
 pachara1337@protonmail.com 
 

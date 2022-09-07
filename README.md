@@ -21,6 +21,9 @@
 <a href="bit.ly/EccentricSoftBOT" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
 </a>
+<a href="bit.ly/valcheckbot" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
+</a>
 
 
 

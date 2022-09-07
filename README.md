@@ -18,10 +18,10 @@
 
 <h3>Discord Bot</h3>
 
-<a href="bit.ly/EccentricSoftBOT" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
+<a href="https://discord.com/oauth2/authorize?client_id=1007944377500450847&permissions=8&scope=bot" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
 </a>
-<a href="bit.ly/valcheckbot" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
+<a href="https://discord.com/oauth2/authorize?client_id=1017015767247630436&permissions=8&scope=bot" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
 </a>
 

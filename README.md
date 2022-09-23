@@ -34,15 +34,15 @@
   <br/>
 
 <div align="center">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=eccentricPACHARA&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-<img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccentricPACHARA&theme=tokyonight&layout=compact&hide_border=true" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=pachara1337&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+<img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachara1337&theme=tokyonight&layout=compact&hide_border=true" />
 </div>  
 
 
 
 
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=eccentricPACHARA&bg_color=0D1117&color=00ffe5&line=f200ff&point=FFFFFF&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=pachara1337&bg_color=0D1117&color=00ffe5&line=f200ff&point=FFFFFF&hide_border=true" />
 
 <h2></h2>
 <br/>

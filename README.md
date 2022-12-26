@@ -18,7 +18,7 @@
 
 <h3>Discord Bot</h3>
 
-<a href="[https://discord.com/oauth2/authorize?client_id=1007944377500450847&permissions=8&scope=bot](https://discord.com/oauth2/authorize?client_id=1056565893368389632&permissions=277083450689&scope=bot%20applications.commands)" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
+<a href="https://discord.com/oauth2/authorize?client_id=1056565893368389632&permissions=277083450689&scope=bot%20applications.commands" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
 </a>
 

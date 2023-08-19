@@ -12,10 +12,6 @@ Just a professional retard named Pachara
 
 
 
-  <h2></h2>
-  <br/>
-
-
 
 <h2></h2>
 <br/>

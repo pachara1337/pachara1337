@@ -17,8 +17,10 @@ Just a professional retard named Pachara
 <br/>
 
 <div align="center">
- 
+
+thug@pachara.club
 pachara1337@protonmail.com 
+
 
 </div>
  

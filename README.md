@@ -24,13 +24,7 @@ thug@pachara.club
 </div>
 
 
-<div align="center">
 
-
-pachara1337@protonmail.com 
-
-
-</div>
  
  <div align="center">
   
